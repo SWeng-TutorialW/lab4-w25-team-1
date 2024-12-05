@@ -11,7 +11,7 @@
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="1_2"
+		   text="1"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
